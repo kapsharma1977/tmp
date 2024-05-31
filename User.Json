@@ -1,0 +1,134 @@
+{
+  "_id": {
+    "$oid": "6326a5522d7a70d7bd71ee3e"
+  },
+  "username": "kapil@ieee.org",
+  "password": "$2b$12$lAlbXHK9oOVECUEimk2NJehPrzod28x//ygjc4dt5TcX3QEmt8Z1.",
+  "fname": "Kapil",
+  "mname": "",
+  "lname": "Sharma",
+  "directory": "pathtodirectory",
+  "Photo": "Pathto image",
+  "Qualifications": "B.E.(cse) ,M.Tech.(IT), Ph.D(cse)",
+  "Areas of Interest": "Artificial Intelligence,Optimization,Evolutionary Computation,Software Engineering, Malware Analysis",
+  "Bio": "Prof. Kapil Sharma is Professor at the Department of Information Technology, Delhi Technological University (formerly Delhi College of Engineering), Delhi, India. He has completed Doctors Degree in Computer Science and Engineering under the Faculty of Engineering and Technology at the M. D. University, Rohtak (Haryana), India. He has obtained his Bachelor of Engineering and Master of Technology Degrees in Computer Science & Engineering and Information Technology.",
+  "Publications": "pathtopub",
+  "contact": {
+    "phone": [
+      "9717470444",
+      "8882230325"
+    ],
+    "emails": [
+      "kapil@ieee.org",
+      "kapsharma@yahoo.com"
+    ],
+    "address": {
+      "Home": {
+        "add": "179, Aastha Kunj, Sector-18, Rohini, Delhi-110089",
+        "State": "Delhi",
+        "Pin": "110089"
+      },
+      "Office": {
+        "add": "Department of Information Technology, Delhi Technological Univerity",
+        "State": "Delhi",
+        "Pin": "110042"
+      }
+    },
+    "Web": "www.kapilsharma.in",
+    "GoogleScholar": "https://scholar.google.com/citations?user=LkBDGkUAAAAJ&hl=en",
+    "linkedin": "linkedin",
+    "Facebook": "Facebook",
+    "Youtube": "www.youtube.com",
+    "Twiter": "twiter"
+  },
+  "faculty": {
+    "Position": "Professor",
+    "Title": "Dr.",
+    "Post": "Head Information Technology",
+    "empcode": "8328"
+  },
+  "student": {
+    "Programe": "",
+    "Roll Number": ""
+  },
+  "University": {
+    "Name": "Delhi Technological University",
+    "Address": "Shahbad Daulatpur, Main Bawana Road, DL - 42",
+    "url": "www.dtu.ac.in"
+  },
+  "Department": {
+    "name": "Information Technology",
+    "url": "http://www.dtu.ac.in/Web/Departments/InformationTechnology/about/",
+    "Address": ""
+  },
+  "Sponsored Projects": "DRDO sponsred project on Malware Analysis",
+  "Patents": {
+    "US": [
+      {
+        "Title": "5G",
+        "url": ""
+      }
+    ],
+    "Indian": [
+      {
+        "Title": "5G",
+        "url": ""
+      }
+    ],
+    "Others": [
+      {
+        "Title": "5G",
+        "url": ""
+      }
+    ]
+  },
+  "Industry Collaboration": [
+    {
+      "name": "Samsung India",
+      "url": "https://www.samsung.com/in/home/",
+      "mou": "",
+      "Collaboration": "M.Tech"
+    }
+  ],
+  "StartUp": [
+    {
+      "name": "DezWebApp",
+      "url": "",
+      "funding": "Self"
+    }
+  ],
+  "Books": [
+    {
+      "Title": "Software Reliability Modeling and Selection",
+      "Description": "Book describes selection of software reliability models",
+      "Year": 2012,
+      "url": "https://www.amazon.in/Software-Reliability-Modeling-Selection-Sharma/dp/3848481235",
+      "Publisher": "Lambert"
+    }
+  ],
+  "Awards": [
+    {
+      "Name": "DTU Research Awards",
+      "Description": "Annual",
+      "Certificate": "pathtofile"
+    }
+  ],
+  "Social Impact through service": [
+    {
+      "Name": "App for election commission of india vote chandni chowk",
+      "app store link": "https://play.google.com/store/apps/details?id=in.gov.delhi.votechandnichowk&hl=en_IN&gl=US"
+    }
+  ],
+  "Technology Transfer": [
+    {
+      "name": "DezWebApp",
+      "Technology": "5G",
+      "url": "",
+      "royalty": ""
+    }
+  ],
+  "Papers": [],
+  "btechproject": [],
+  "mtechthesis": [],
+  "phdthesis": []
+}
